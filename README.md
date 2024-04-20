@@ -37,5 +37,5 @@ Our analytical arsenal included diverse models to ensure robust identification:
 - **CNN_Models.ipynb**: Upcoming models utilizing CNN-extracted features.
 - **Saved Models**: Repository for deployed and tested models.
 
-![Face Identification Interface](path_to_image) <!-- Replace with the actual path to the image -->
+![Face Identification Interface](lfw_image.png) <!-- Replace with the actual path to the image -->
 
