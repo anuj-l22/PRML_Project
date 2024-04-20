@@ -33,9 +33,7 @@ Our analytical arsenal included diverse models to ensure robust identification:
 
 - **Web Demo Repository**: [View on GitHub](https://github.com/Stardust-01/Face-classification-using-LinearSVC/tree/main)
 - **Web Demo**: [Try the Live Demo](https://face-classification-using-linearsvc-9mqdfclrzf5wdkmvj9ndj7.streamlit.app/)
-- **PRML_Project.ipynb**: Data preprocessing and EDA for LFW.
-- **PRML_Feat_ext.ipynb**: Feature extraction implementation.
-- **Feature_extraction.ipynb**: Models trained on PCA-reduced features.
+- **PRML_Project.ipynb**: Data preprocessing and EDA for LFW. [Used in Midreport]
 - **CNN_Models.ipynb**: Upcoming models utilizing CNN-extracted features.
 - **Saved Models**: Repository for deployed and tested models.
 
