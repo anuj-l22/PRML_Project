@@ -1,5 +1,4 @@
-# Face Identification from the LFW Dataset
-
+# Face Identification from the LFW Dataset  (PRML Project Group-14)
 ## Overview
 The Labeled Faces in the Wild (LFW) dataset challenges automated facial recognition with its real-world, uncontrolled conditions. Our project aims to accurately identify individuals by matching and ranking facial features against a comprehensive database.
 
