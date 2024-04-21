@@ -33,6 +33,8 @@ Our analytical arsenal included diverse models to ensure robust identification:
 - **Web Demo Repository**: [View on GitHub](https://github.com/Stardust-01/Face-classification-using-LinearSVC/tree/main)
 - **Project Page Link**: [View Project Page](https://anuj-l22.github.io/PRML_Project/)
 - **Spotlight Video**: [View Spotlight Video](https://youtu.be/1AO8YunbgLs)
+- **Project Slides**: [View Project Slides](https://drive.google.com/file/d/1vsw37vBgCabxMDzO2PGN_UXN6wJ3DGzC/view?usp=sharing)
+- **Project Report**: [View Project Report](https://drive.google.com/file/d/1Fqjq3UV_l51ADNIQLj_Ix7QMpLmtnjq2/view?usp=sharing)
 - **Web Demo**: [Try the Live Demo](https://face-classification-using-linearsvc-9mqdfclrzf5wdkmvj9ndj7.streamlit.app/)
 - **PRML_Project.ipynb**: Data preprocessing and EDA for LFW. [Used in Midreport]
 - **CNN_Models.ipynb**: Upcoming models utilizing CNN-extracted features.
