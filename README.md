@@ -39,6 +39,9 @@ Our analytical arsenal included diverse models to ensure robust identification:
 - **PRML_Project.ipynb**: Data preprocessing and EDA for LFW. [Used in Midreport]
 - **CNN_Models.ipynb**: Upcoming models utilizing CNN-extracted features.
 - **Saved Models**: Repository for deployed and tested models.
+- **docs**: Repository for deploying project page.
+- **report**: File containing the report tex file and figs.
+
 
 ![Face Identification Interface](lfw_image.png) <!-- Replace with the actual path to the image -->
 
